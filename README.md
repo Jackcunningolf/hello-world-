@@ -1,6 +1,6 @@
 # Hello_World!
 
-My first repository.
+This is my first personal repository.
  
 Hi, my name is Jack Cunningham and I attend Robert A. Millikan High School as a senior. 
 I will attend Boise State University in the fall of 2019 as a computer science major. 
